@@ -1,5 +1,5 @@
 # Markowitz_portfolio
-This repository is a study on the Markowitz portfolio optimization
+This repository is a study on the Markowitz portfolio optimization through Yahoo Finance data.
 
 ![image](https://user-images.githubusercontent.com/76531495/167670098-f486d2fd-1020-4ba5-9453-0ae745c656c2.png)
 
