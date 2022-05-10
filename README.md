@@ -5,7 +5,7 @@ This repository is a study on the Markowitz portfolio optimization through Yahoo
 
 ## About this project
 
-The objective of this project was to reconstruct a Finance 2 subject activity. I was somewhat displeased with the work I had sent initially, so i decided to optimize the code in a way that i could calculate the Markowitz portfolio optimization automatically, choosing any (and how many) stocks I would like.
+The objective of this project was to reconstruct a Finance 2 subject activity. I was somewhat displeased with the work I had sent initially, so I decided to optimize the code in a way that I could calculate the Markowitz portfolio optimization automatically, choosing any (and how many) stocks I would like.
 
 Also, by creating a code that could adapt itself accordingly to a number of stocks who doesn't need to be previously set, I got to learn more about loops and the .format() function.
 
@@ -31,7 +31,7 @@ B: Decided to create the code in a way that it would adapt itself according to a
 
 A: The code kept being built.
 
-B: Started to learn plotly so i could more visually appealing graphs.
+B: Started to learn plotly so I could more visually appealing graphs.
 
 ### Day 3 - 2022/05/06
 
