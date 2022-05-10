@@ -31,7 +31,7 @@ B: Decided to create the code in a way that it would adapt itself according to a
 
 A: The code kept being built.
 
-B: Started to learn plotly so I could more visually appealing graphs.
+B: Started to learn plotly so I could create more visually appealing graphs.
 
 ### Day 3 - 2022/05/06
 
