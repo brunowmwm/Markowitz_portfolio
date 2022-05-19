@@ -44,3 +44,7 @@ B: I got an error to discover the best portfolio weights and couldn't find a sol
 A: A tip from a teacher got the solution I was searching for.
 
 B: Finished.
+
+### Day 5 - 2022/05/19
+
+A: I decided to improve the code by adding a VaR parameter to the max sharpe portfolio
